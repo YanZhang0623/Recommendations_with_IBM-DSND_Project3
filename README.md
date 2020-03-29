@@ -18,4 +18,5 @@ This project requires Python 3.x and the follwing Python libraries installed:
 File Description:
 
 1. User-item-interactions.csv
+
 2.articles_community.csv
